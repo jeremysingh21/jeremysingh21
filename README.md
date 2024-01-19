@@ -4,7 +4,7 @@
 
 I'm Jeremy, I am a geospatial enthusiast and a lover of movies! I dabble in geospatial Python and SQL. I enjoy hiking, going to the cinema, and coding!
 
-##Skills: 
+### Skills: 
 * GIS :world_map:
 * Python :snake:
 * JS, HTML, Django, Flask :desktop_computer:
