@@ -4,8 +4,13 @@
 
 I'm Jeremy, I am a geospatial enthusiast and a lover of movies! I dabble in geospatial Python and SQL. I enjoy hiking, going to the cinema, and coding!
 
-Skills: GIS, Python, JS, HTML, Django, Flask, SQL, AWS, ESRI
-
+##Skills: 
+* GIS :world_map:
+* Python :snake:
+* JS, HTML, Django, Flask :desktop_computer:
+* SQL :floppy_disk:
+* AWS, GCP, Azure :cloud:
+  
 - 🔭 I’m currently working on a *secret* 
 - 🌱 I’m currently learning Web Development,  
 - 👯 I’m looking to collaborate on mapping projects! 
