@@ -20,16 +20,12 @@ I'm Jeremy, I am a geospatial enthusiast and a lover of movies! I dabble in geos
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jeremysingh21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jeremy-singh-68b5b168//)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jeremysingh21)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremysingh21)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![GitHub metrics](https://metrics.lecoq.io/jeremysingh21)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=jeremysingh21)  
-
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremysingh21&theme=merko&show_icons=true)
