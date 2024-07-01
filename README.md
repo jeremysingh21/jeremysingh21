@@ -11,7 +11,7 @@ I'm Jeremy, I am a geospatial enthusiast and a lover of movies! I dabble in geos
 * SQL :floppy_disk:
 * AWS, GCP, Azure :cloud:
   
-- 🔭 I’m currently working on a *secret* 
+- 🔭 I’m currently working on Canvassed.ai 
 - 🌱 I’m currently learning Web Development,  
 - 👯 I’m looking to collaborate on mapping projects! 
 - 🤔 I’m looking for help with becoming a geospatial developer! 
